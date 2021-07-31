@@ -29,5 +29,8 @@ _saved_*
 # Footprint info cache
 fp-info-cache
 
+# Library cache
+*-cache.lib
+
 # Autosave files
 _autosave-*
