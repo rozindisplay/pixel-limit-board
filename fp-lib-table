@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name limit)(type KiCad)(uri ${KIPRJMOD}/limit.pretty)(options "")(descr ""))
+)
